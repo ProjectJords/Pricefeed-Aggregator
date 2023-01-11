@@ -1,0 +1,10 @@
+{
+    "network_info_proxy" : "0x8E303D296851B320e6a697bAcB979d13c9D6E760",
+    "network_info" : "0xFD47C74A8030520BACd364FB8e08ACB28766aE7b",
+    "weth" : "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "dai" : "0x6B175474E89094C44Da98b954EedeAC495271d0F",
+    "usdc" : "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+    "usdt" : "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+    "eth" : "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE"
+
+}
